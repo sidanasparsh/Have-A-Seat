@@ -1,0 +1,7 @@
+Flask==0.10.1
+pymongo
+tweepy
+nltk
+bcrypt
+pyyaml
+twilio
